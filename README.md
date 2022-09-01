@@ -1,6 +1,7 @@
 # Gal-Voice-Bot
 
 ## 使用说明
+
 0.下载Release
 1. 将搭载机器人的qq账号及密码填入config.yml的account
 2. 将发出指令的qq账号填入superusers
