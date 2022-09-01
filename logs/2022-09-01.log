@@ -1,0 +1,36 @@
+[2022-09-01 12:20:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53271->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-09-01 12:20:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53271->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-09-01 12:43:19] [WARNING]: 警告: 配置文件内的QQ号 (2181715763) 与缓存内的QQ号 (2046649835) 不相同 
+[2022-09-01 12:43:19] [WARNING]: 1. 使用会话缓存继续. 
+[2022-09-01 12:43:19] [WARNING]: 2. 删除会话缓存并重启. 
+[2022-09-01 12:43:19] [WARNING]: 请选择: (5秒后自动选1) 
+[2022-09-01 12:43:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-01 12:43:26] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2022-09-01 12:43:26] [WARNING]: Bot已离线: session expired 
+[2022-09-01 12:43:30] [WARNING]: 尝试重连... 
+[2022-09-01 12:43:30] [WARNING]: 快速重连失败: exchange_emp failed: 15 
+[2022-09-01 12:43:30] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-09-01 12:43:32] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-09-01 12:43:32] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-09-01 12:43:32] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-09-01 12:43:32] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-09-01 12:43:41] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2022-09-01 12:43:42] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=HKFcyLsC&style=simple&aid=16&uin=2181715763&sid=8389948117357705331&cap_cd=VLLUM8f-_8Wwf7W-mNEuTlUMBKmxSkKd3wWDx1KlIku0h97vDitOkQ**&clientype=1&apptype=2 
+[2022-09-01 12:43:56] [FATAL]: 遇到错误: Packet timed out 
+[2022-09-01 12:44:39] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-09-01 12:44:39] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-09-01 12:44:39] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-09-01 12:44:39] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-09-01 12:44:49] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=MaraMM2p&style=simple&aid=16&uin=2181715763&sid=7169050388695365815&cap_cd=Cs2dKtxrh8fmA6EM-_GbP0jWViDIMJ5QVucG3ybznA5Z4y4es0wZBA**&clientype=1&apptype=2 
+[2022-09-01 12:45:38] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-09-01 12:45:38] [WARNING]: 1. 向手机 183*******8 发送短信验证码 
+[2022-09-01 12:45:38] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-09-01 12:45:38] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-09-01 12:45:47] [WARNING]: 账号已开启设备锁，请前往 -> https://accounts.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=double-check&uin=2181715763&sig=7CUFmfuaiK4HxtX%2BnwEd1jikE5mUsEwVCYSE5vyKUh0xhSTMAm%2FqQ3q6jpgZ3E798IXJfQbBYKEsox8uuyJqoZOdEacaKCn3Ovv3lhDas4c%3D <- 验证后重启Bot. 
+[2022-09-01 12:46:56] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-01 12:47:26] [ERROR]: Protocol -> sync channel error: Packet failed to sendPacket: connection closed 
+[2022-09-01 12:47:26] [FATAL]: 遇到错误: Packet failed to sendPacket: connection closed 
+[2022-09-01 12:48:07] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-01 12:48:09] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2022-09-01 12:48:09] [WARNING]: HTTP 服务器使用了过时的配置格式，请更新配置文件！ 
+[2022-09-01 12:48:17] [WARNING]: 警告: 长消息响应延迟为 7354ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
