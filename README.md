@@ -2,7 +2,7 @@
 
 ## Release使用说明
 
-0. 下载Release
+0. 下载最新版Gal-Voice-Release
 1. 将搭载机器人的qq账号及密码填入config.yml的account
 2. 将发出指令的qq账号填入superusers
 3. 在目录打开powershell, 输入指令./go-cqhttp
@@ -11,7 +11,7 @@
 
 ## GUI使用说明
 
-0. 下载Gal-Voice-GUI
+0. 下载最新版Gal-Voice-GUI
 1. 解压, 运行Launcher.exe
 2. 将搭载机器人的qq账号及密码填入id和password
 3. 将发出指令的qq账号填入superuser
