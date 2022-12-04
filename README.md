@@ -20,7 +20,7 @@
 ## Release及GUI下载:<br>
 进qq群下载 613525127
 <br>
-或网盘下载 https://pan.baidu.com/s/14RmT8HcGgeEDiBJU60MLEw?pwd=1926
+或网盘下载 链接：https://pan.baidu.com/s/1VOlTF6k80W3WDpMKP4h5xQ?pwd=1926 
 
 # Q&A
 Q:为什么报错显示需添加1458038842为好友?
